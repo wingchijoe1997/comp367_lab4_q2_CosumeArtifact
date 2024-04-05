@@ -8,7 +8,7 @@ namespace CosumeArtifact
         {
             Console.WriteLine("Hello, World!");
   
-            Console.WriteLine(StringLibrary.StartsWithUpper("123"));
+            Console.WriteLine(StringLibrary.StartsWithUpper("Yes"));
 
         }
     }
